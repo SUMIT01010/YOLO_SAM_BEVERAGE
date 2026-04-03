@@ -1,0 +1,12 @@
+{
+  "data_yaml": "datasets/beverage_yolo/data.yaml",
+  "split_summary_json": "datasets/beverage_yolo/split_summary.json",
+  "yolo_weights": "/Users/sumitsaurabh/Desktop/DSL/runs/detect/runs/detect/beverage_exp25/weights/best.pt",
+  "examples_dir": "outputs/examples",
+  "examples_grid": "outputs/examples/pipeline_examples_grid.png",
+  "clean_crops_dir": "outputs/clean_crops",
+  "single_preview": "outputs/pipeline_visualization.png",
+  "status_counts": {
+    "ok": 10
+  }
+}

@@ -1,0 +1,32 @@
+{
+  "train": {
+    "num_images": 700,
+    "num_boxes": 2170,
+    "bbox_per_class": {
+      "bottle": 2170
+    },
+    "images_containing_class": {
+      "bottle": 700
+    }
+  },
+  "val": {
+    "num_images": 100,
+    "num_boxes": 281,
+    "bbox_per_class": {
+      "bottle": 281
+    },
+    "images_containing_class": {
+      "bottle": 100
+    }
+  },
+  "test": {
+    "num_images": 200,
+    "num_boxes": 549,
+    "bbox_per_class": {
+      "bottle": 549
+    },
+    "images_containing_class": {
+      "bottle": 200
+    }
+  }
+}
